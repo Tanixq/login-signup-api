@@ -107,7 +107,7 @@ Error if any field is missing
 ```
 
 ## For Login
-Make **POST** Request for sign up on End Point - https://login-signup-api-tanixq.herokuapp.com/api/login
+Make **POST** Request for login on End Point - https://login-signup-api-tanixq.herokuapp.com/api/login
 
 ### Step 1 - 
 Set Request type as **POST**
