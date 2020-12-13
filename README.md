@@ -67,7 +67,7 @@ Now send **POST** on **End Point - https://login-signup-api-tanixq.herokuapp.com
 | Fields      | Description         | Example Response                              |
 | ------------- |:-------------:    | -----:                                        |
 | message        | Message          | Sign Up Successful                            |
-| name          | errors description |      errors{"name": "ValidatorError"}        |
+| error (if any)          | errors description |      errors{"name": "ValidatorError"}        |
 
 **Example of API Response:**
 
