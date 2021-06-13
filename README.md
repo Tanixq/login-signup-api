@@ -1,6 +1,7 @@
 # login-signup-api
 
-It is simple **login, signup and get all registered user API**. 
+It is a Rest API for login and register user.
+Made using Express and MongoDB.
 
 **API End Points -**
 - >login End Point - https://login-signup-api-tanixq.herokuapp.com/api/login 
